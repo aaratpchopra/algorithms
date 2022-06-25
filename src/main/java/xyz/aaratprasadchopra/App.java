@@ -21,7 +21,7 @@ public class App {
         System.out.println(lowerTriangular.accessAnElement(3, 2));
         System.out.println(lowerTriangular);
 
-        var bt = new BinaryTree<>();
+//        var bt = new BinaryTree<>();
 //        bt.constructTree(Arrays.asList(1, 2, 3, 4, 5, 6, 7));
 //        bt.preOrder();
 //        bt.preOrderItr();
